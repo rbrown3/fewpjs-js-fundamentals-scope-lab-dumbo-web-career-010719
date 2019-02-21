@@ -1,4 +1,3 @@
-animal = ""
 
 function myAnimal() {
   const animal = 'dog'
@@ -14,4 +13,8 @@ function add2(n) {
   const two = 2
   const add = n +two
   return add
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 87e615a9f1d3b612b19abe24d2c612abf92c3a23
